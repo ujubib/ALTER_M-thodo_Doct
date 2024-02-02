@@ -1,5 +1,6 @@
 ---
 title: "Séminaire Méthodo"
+subtitle: "Organiser un calendrier de travail pour la recherche & les outils d'organisation"
 author: 
   - name: Mharion Cazaux
     email: mhkzo@outlook.fr
@@ -15,13 +16,25 @@ listing:
   type: table
 ---
 
-![](img/intitul%C3%A9S%C3%A9minaire.jpg)
+::::: {.columns}
 
-## Séances 2024
-
-:::: {#séances2024}
+:::: {.column width="40%"}
+![](img/intitul%C3%A9S%C3%A9minaire.jpg){fig-align="center" width="500"}
 ::::
 
-***
+:::: {.column width="5%"}
+::::
+
+:::: {.column width="55%"}
+## Séances 2024
+
+::: {#séances2024}
+:::
+
+::::
+
+:::::
+
+------------------------------------------------------------------------
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
