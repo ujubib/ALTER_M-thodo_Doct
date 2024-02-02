@@ -1,0 +1,138 @@
+---
+title: "Séance (1) : S'organiser en recherche"
+date: 2024-01-09
+author:
+  - name: Mharion Cazaux
+    email: mhkzo@outlook.fr
+  - name: Amandine Duprat
+    email: aduprat004@univ-pau.fr
+  - name: Ugo Ryckman
+    email: ugo.ryckman@gmail.com
+lang: fr
+---
+
+## 1 - Mharion Cazaux
+
+### Présentation de *Notions*
+
+Outils d'organisation modelable. Plusieurs template ou modèles présents dans l'application / site.
+
+Possibilité de lier application mobile et pc.
+
+Rappels programmables.
+
+Prise de notes \> exportable vers HTML, Word, PDF et autres.
+
+#### Fonctions:
+
+-   Calendrier
+-   To-do lists
+-   Carnet d'adresse
+-   Prise de notes
+
+## 2 - Amandine Duprat
+
+### Présentation d'un carnet de recherche
+
+Tâches quotidiennes, hebdomadaires et mensuelles présentes dans un seul document.
+
+Suivi traçable de l'évolution des tâches.
+
+## 3 - Ugo Ryckman
+
+### Zettlr, logiciel de traitement de texte.
+
+Simplifié à l'extrême, très pratique pour écrire sans distraction. Quelques lignes de codes à garder de côté pour les sauts de page, centrer le texte. Pas encore utilisé pour produire quelque chose prêt à publier.
+
+- Possibilité de suivre la productivité (Pomodoro + quantité de mots écrits en une journée)
+
+- Différentes manières de purifier l'espace d'écriture
+
+### Obsidian
+
+Logiciel de traitement de texte moins simplifié que Zettlr mais couvrant des objectifs différents.
+
+- Très pratique pour constituer des brochures de cours, uniformiser des séries de documents.
+
+- Nuage intéressant
+
+- Quantité de plug-ins intéressants + très facile à installer
+
+::: callout-tip
+## Dans les deux cas
+
+- Possibilité de faire un document d'export *template* pour un gain de temps et une DA soignée + Fonctionne avec une base markdown, un document créé sur l'une des deux applications peut donc être ouverte et modifiée sur l'autre, et que les modifications soient prises en compte. (inclus dans Zettlr)
+:::
+
+### Méthode Pomodoro
+
+
+Travail intensif suivis d'un court temps de repos. 
+
+::: {.callout-note appearance="minimal"}
+
+- **Lecture / prise de notes**: 45 mn de travail pour 10 mn de repos
+- **Écriture**: 40 mn de travail pour 7 minutes de repos
+
+:::
+
+Évite le surmenage sur une seule tâche, surtout quand rébarbative, et de se perdre dans un travail (trop) chronophage. 
+
+### Matrice Eisenhower
+
+| Tâche | Importante | Réalisation | Moins importante |Réalisation|
+|---|---|---|---|---|
+| Urgente |||||
+|Moins urgente|||||
+
+::: callout-tip
+## Pratique pour classifier les tâches à réaliser 
+
+- Permet de prendre du recul sur la quantité / qualité des tâches 
+- Suivi sur le court et long terme 
+- Adaptable à différents agendas, utilisables sur un projet spécifique ou pour suivre l'avancée de différents projets en simultanés.
+:::
+
+## 4 - Outils communs 
+
+### Carnet de recherche 
+
+#### 1ère année
+
+Initié avant la thèse, au moment de la constitution du dossier. Utilisé très fréquemment pour résumer les notes, mettre à plat l'orientation du projet de thèse. Prise en compte de la littérature existante sur le sujet. 
+
+::: {.callout-important icon=false}
+## Positionnement du projet de recherche 
+:::
+
+#### 2ème année
+
+Formulation d'idées propres, liées au sujet visant à devenir des communications scientifiques
+
+::: {.callout-important icon=false}
+## Squelette du projet de recherche 
+:::
+
+#### 2ème et 3ème années
+
+Formulations d'idées propres suite au traitement d'entretiens réalisés par mes soins. 
+
+::: {.callout-important icon=false}
+## Poursuite de la constitution du projet de recherche + composition prend forme.
+:::
+
+### Zotero
+
+Logiciel de catalogage. 
+
+- Pratique à l'utilisation, renseignements faciles grâce au personnel du SCD.
+
+- Possibilité de liaison entre Zotero et Zettlr/Obsidian/Notion. Pas encore explorée mais possibilité de voir ça avec le personnel du SCD (Julien Rabaud; <julien.rabaud@univ-pau.fr>)
+
+
+## 5 - Contacts 
+
+- Manipulation générale de Zotero peut être couverte avec le personnel du SCD avec prise de rendez-vous 
+  - Julien Rabaud <julien.rabaud@univ-pau.fr>
+  - Christel Barbisan <christel.barbisan@univ-pau.fr>
+- SOS Outils de la recherche

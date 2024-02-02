@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "SiteWeb"
+  reader-mode: true
+  page-navigation: true
+  navbar:
+    logo: UPPA_logo.png
+    search: true
+    pinned: false
+    left:
+      - href: index.qmd
+        text: "Accueil"
+      - href: about.qmd
+        text: "Info"
+  sidebar: 
+    title: Contenu
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - section: "Séances 2024"
+        contents: "Seances2024/*"
+
+format:
+  html:
+    grid:
+      sidebar-width: 400px
+      body-width: 900px
+      margin-width: 400px
+      gutter-width: 1.5rem
+    theme:
+      light: cosmo
+      dark: solar
+    css: styles.css
+    toc: true
+    toc-depth: 5
+    toc-expand: true
+    filters:
+    - lightbox 
+    lightbox:
+      match: auto
+      effect: fade
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+
+
