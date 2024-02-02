@@ -30,6 +30,14 @@ Prise de notes \> exportable vers HTML, Word, PDF et autres.
 -   Carnet d'adresse
 -   Prise de notes
 
+
+::: callout-tip
+## Tutoriels du *Ceres*
+
+- [Notion dans la recherche en SHS](https://ceres.sorbonne-universite.fr/tutoriels/2022-03-05_guide_notion/)
+- [Nettoyer, trier, indexer, explorer un corpus avec Notion](https://ceres.sorbonne-universite.fr/tutoriels/2023-04-06_cours_nettoyage/)
+:::
+
 ## 2 - Amandine Duprat
 
 ### Présentation d'un carnet de recherche
@@ -135,4 +143,4 @@ Logiciel de catalogage.
 - Manipulation générale de Zotero peut être couverte avec le personnel du SCD avec prise de rendez-vous 
   - Julien Rabaud <julien.rabaud@univ-pau.fr>
   - Christel Barbisan <christel.barbisan@univ-pau.fr>
-- SOS Outils de la recherche
+- [SOS Outils de la recherche](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.
