@@ -1,1 +1,24 @@
 /* css styles */
+.quarto-title-block {
+    width: fit-content;
+    /* background-color:mistyrose; */ /* ghostwite snow seashell azure oldlace */
+    padding-top: .8em;
+    padding-bottom: .8em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+    border-radius: 16px;
+    margin-bottom: 3em !important;
+    border: solid 4px lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quarto-title-meta-heading {
+    margin-top: 1.6em !important;
+    text-transform: none !important;
+    color: grey;
+}
+
+.quarto-title-breadcrumbs {
+    display:none !important;
+}

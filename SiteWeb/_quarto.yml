@@ -31,17 +31,12 @@ format:
       margin-width: 400px
       gutter-width: 1.5rem
     theme:
-      light: cosmo
+      light: yeti
       dark: solar
     css: styles.css
     toc: true
     toc-depth: 5
     toc-expand: true
-    filters:
-    - lightbox
-    lightbox:
-      match: auto
-      effect: fade
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true

@@ -5,9 +5,9 @@ authors:
   - name: Amandine Duprat
     email: aduprat004@univ-pau.fr
   - name: Ugo Ryckman
-    email: <ugo.ryckman@gmail.com>
+    email: ugo.ryckman@gmail.com
   - name: Julien Rabaud
-    email: <julien.rabaud@univ-pau.fr>
+    email: julien.rabaud@univ-pau.fr
 lang: fr
 image: /img/FAIR_data_principles.jpg
 ---
@@ -36,7 +36,7 @@ La définition la plus courament utilisée est celle proposée par l’OCDE en 2
 ::: {.callout-tip collapse="true"}
 ## Support pdf
 
-<embed src="/img/Introduction-Données-2022.pdf" type="application/pdf" width="100%"> 
+<embed src="/img/Introduction-Données-2022.pdf" type="application/pdf" width="100%" height="600"> 
 </embed>
 :::
 
