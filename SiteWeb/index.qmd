@@ -7,7 +7,7 @@ author:
   - name: Amandine Duprat
     email: aduprat004@univ-pau.fr
   - name: Ugo Ryckman
-    email: ugo.ryckman@gmail.com
+    email: ugo.ryckman@univ-pau.fr
 lang: fr
 sidebar: true
 listing:
