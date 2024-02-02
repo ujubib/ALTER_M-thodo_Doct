@@ -43,7 +43,7 @@ La définition la plus courament utilisée est celle proposée par l’OCDE en 2
 
   
 
-### F.A.I.R.
+### Objectif : des données F.A.I.R.
 
 - **Findable** / **Accessible** / **Identifiable** / **Reusable**
 - *Facile à trouver* / *Accessible* / *Identifiable* / *Réutilisable*
