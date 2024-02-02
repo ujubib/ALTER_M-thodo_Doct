@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "Seances2024/Seance2.html",
+    "href": "Seances2024/Seance2.html",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "",
+    "text": "La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics :\n\nLes «données de la recherche » sont définies comme des enregistrements factuels (chiffres, textes, images, sons) utilisés comme source principales pour la recherche scientifique et généralement reconnus par la communauté scientifique comme nécessaires pour valider les résultats de la recherche.\n\n\n\n\nIntroduction aux données de la recherche [canal-u] 2h21\n\nCette formation d’introduction aux données de la recherche, animée par Raphaëlle Bats, a eu lieu le 22 septembre 2022 à Pau. Elle a été organisée par l’Urfist de Bordeaux et l’Université de Pau et Pays de l’Adour (UPPA).\n\n\n\n\n\n\n\nVideo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport pdf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindable / Accessible / Identifiable / Reusable\nFacile à trouver / Accessible / Identifiable / Réutilisable\n\n\n\n\n\n\n\nSite de référence\n\n\n\nGO FAIR : FAIR Principles\n\n\n\n\n\n\nDoit être constitué pour chaque projet de recherche\nDoit être présenté lorsque le projet de recherche est adopté, 6 mois après son lancement, puis en vue de sa publication / ouverture au public\nVise à planifier la gestion de données pour chaque projet de recherche, et chaque produit issus des projets de recherche\nSuivi de la transformation des données\n\nPlanifier, suivre et présenter la gestion de données permet aux projets de recherche d’évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique\n\n\n\n\n\n\n\n\nSite de référence\n\n\n\nDMP OPIDoR est un outil d’aide à la création en ligne de plans de gestion de données (Data Management Plan ou DMP) mis à disposition de l’Enseignement Supérieur et de la Recherche. Il est hébergé et géré par l’Inist-CNRS. Basé sur le code open source DMPRoadmap, il a été adapté aux besoins de la communauté scientifique française.\n\n\n\n\n\nIntrinsèquement lié à la gestion des données\n\nVise à protéger les informations d’institutions et les informations individuelles de personnes impliquées dans un projet de recherche\nDonne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)\n\n\n\n\nPour protéger les intervenants et les membres impliqués dans le projet de recherche\nPour pouvoir exploiter les données rassemblées\n\n\n\n\n\n\n\nGuide RGPD de l’InSHS (CNRS)\n\n\n\nLes sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte : Guide pour le Recherche pdf"
+  },
+  {
+    "objectID": "Seances2024/Seance2.html#principes-de-la-gestion-de-données-julien-rabaud",
+    "href": "Seances2024/Seance2.html#principes-de-la-gestion-de-données-julien-rabaud",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "",
+    "text": "La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics :\n\nLes «données de la recherche » sont définies comme des enregistrements factuels (chiffres, textes, images, sons) utilisés comme source principales pour la recherche scientifique et généralement reconnus par la communauté scientifique comme nécessaires pour valider les résultats de la recherche.\n\n\n\n\nIntroduction aux données de la recherche [canal-u] 2h21\n\nCette formation d’introduction aux données de la recherche, animée par Raphaëlle Bats, a eu lieu le 22 septembre 2022 à Pau. Elle a été organisée par l’Urfist de Bordeaux et l’Université de Pau et Pays de l’Adour (UPPA).\n\n\n\n\n\n\n\nVideo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport pdf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindable / Accessible / Identifiable / Reusable\nFacile à trouver / Accessible / Identifiable / Réutilisable\n\n\n\n\n\n\n\nSite de référence\n\n\n\nGO FAIR : FAIR Principles\n\n\n\n\n\n\nDoit être constitué pour chaque projet de recherche\nDoit être présenté lorsque le projet de recherche est adopté, 6 mois après son lancement, puis en vue de sa publication / ouverture au public\nVise à planifier la gestion de données pour chaque projet de recherche, et chaque produit issus des projets de recherche\nSuivi de la transformation des données\n\nPlanifier, suivre et présenter la gestion de données permet aux projets de recherche d’évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique\n\n\n\n\n\n\n\n\nSite de référence\n\n\n\nDMP OPIDoR est un outil d’aide à la création en ligne de plans de gestion de données (Data Management Plan ou DMP) mis à disposition de l’Enseignement Supérieur et de la Recherche. Il est hébergé et géré par l’Inist-CNRS. Basé sur le code open source DMPRoadmap, il a été adapté aux besoins de la communauté scientifique française.\n\n\n\n\n\nIntrinsèquement lié à la gestion des données\n\nVise à protéger les informations d’institutions et les informations individuelles de personnes impliquées dans un projet de recherche\nDonne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)\n\n\n\n\nPour protéger les intervenants et les membres impliqués dans le projet de recherche\nPour pouvoir exploiter les données rassemblées\n\n\n\n\n\n\n\nGuide RGPD de l’InSHS (CNRS)\n\n\n\nLes sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte : Guide pour le Recherche pdf"
+  },
+  {
+    "objectID": "Seances2024/Seance2.html#outils-julien-rabaud",
+    "href": "Seances2024/Seance2.html#outils-julien-rabaud",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "2 - Outils; Julien Rabaud",
+    "text": "2 - Outils; Julien Rabaud\n\nNuage (UPPA)\n\nOuvert à tous (masterants et doctorants) : https://nuage.univ-pau.fr\nMise à jour automatique entre dossier local et en ligne grâce au client NextCloud à installer sur son ordinateur personnel &gt; évite un nombre conséquent d’allers-retours inutiles.\n\n\n\nHuma-num / ShareDocs\n\nPlus sécurisé que certains drive en ligne\nPossibilité d’utiliser des outils tels que whisper (logiciel de transcription)\nPossibilité de partager des documents avec d’autres membres de l’UPPA\n\n\n\nHuma-num / Nakala\n\nEntrepôt de données\nÀ utiliser en vue d’une publication"
+  },
+  {
+    "objectID": "Seances2024/Seance2.html#amandine-duprat",
+    "href": "Seances2024/Seance2.html#amandine-duprat",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "3 - Amandine Duprat",
+    "text": "3 - Amandine Duprat\n\nPlan de gestion de données\n\nIssu du plan de projet de recherche, fourni\n\n\n\nIntérêt gestion de données\n\nUniformisation des données rassemblées\nÉtude qualitative des maisons d’écrivains"
+  },
+  {
+    "objectID": "Seances2024/Seance2.html#ugo-ryckman",
+    "href": "Seances2024/Seance2.html#ugo-ryckman",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "4 - Ugo Ryckman",
+    "text": "4 - Ugo Ryckman\nSujet actuel nécessitait de réaliser des entretiens. Avant la thèse, et au début, pas de connaissances sur comment réaliser des entretiens et comment traiter les entretiens.\n\nModèles étude d’entretiens\n\n1er modèle : The First Wave; collecte de témoignages sur le sujet de recherche. Fournit extrait d’entretien mais traçabilité impossible.\n2e modèle : Oral History of the GAA; collecte de témoignage sur l’histoire d’un sport. Plus factuel, fournit entretien entier + sommaire et transcription partielle. Modèle pour présenter les résultats de la recherche et pour la traçabilité.\n\n\n\n\n\n\n\n\n\n\n\nDéveloppement plus profond sur la manière de faire les entretiens plus tard dans le semestre : le 04 mars (prochaine séance du séminaire)\n\n\n\n\nFormulaire à remplir pour le RGPD\nRéalisation du document:\n\nBasé sur un document publié par la Oral History Society, datant d’une formation en master\nCorrection et constitution de la version présentée lors des entretiens avec Melaine Bernadaus, juriste déléguée à la protection des données pour l’université. (dpo@univ-pau.fr)\n\n\n\nProduction de documents annexes II.1 exemple\n\nEntretiens:\n\nExtraction d’informations importantes des entretiens\n\nMise en place d’une annexe listant et définissant les événements, lieux, personnalités et institutions mentionnées"
+  },
+  {
+    "objectID": "Seances2024/Seance2.html#contacts",
+    "href": "Seances2024/Seance2.html#contacts",
+    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
+    "section": "5 - Contacts",
+    "text": "5 - Contacts\n\njulien.rabaud@univ-pau.fr\ndpo@univ-pau.fr\nSOS Outils de la recherche, prochain atelier le 19 février de 12h à 14h à la BU."
+  },
+  {
+    "objectID": "index.html#séances-2024",
+    "href": "index.html#séances-2024",
+    "title": "Séminaire Méthodo",
+    "section": "Séances 2024",
+    "text": "Séances 2024\n\n\n\n\n  \n\n\n\n\nSéance (2) gestion de Données dans les Sciences Sociales et Humaines\n\n\n\n\n\n\n\n\n\n\n\n\n31 janv. 2024\n\n\n\n\n\n\n  \n\n\n\n\nSéance (1) : S’organiser en recherche\n\n\n\n\n\n\n\n\n\n\n\n\n9 janv. 2024\n\n\nMharion Cazaux, Amandine Duprat, Ugo Ryckman\n\n\n\n\n\n\nAucun article correspondant\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "Seances2024/Seance1.html",
     "href": "Seances2024/Seance1.html",
     "title": "Séance (1) : S’organiser en recherche",
@@ -40,40 +96,5 @@
     "title": "Séance (1) : S’organiser en recherche",
     "section": "5 - Contacts",
     "text": "5 - Contacts\n\nManipulation générale de Zotero peut être couverte avec le personnel du SCD avec prise de rendez-vous\n\nJulien Rabaud julien.rabaud@univ-pau.fr\nChristel Barbisan christel.barbisan@univ-pau.fr\n\nSOS Outils de la recherche, prochain atelier le 19 février de 12h à 14h à la BU."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Séminaire Méthodo",
-    "section": "",
-    "text": "Séance (1) : S’organiser en recherche\n\n\n\n\n\n\nMharion Cazaux, Amandine Duprat, Ugo Ryckman\n\n\nJan 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSéance (2) gestion de Données dans les Sciences Sociales et Humaines\n\n\n\n\n\n\nAmandine Duprat, Ugo Ryckman, Julien Rabaud\n\n\nJan 9, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#séances-2024",
-    "href": "index.html#séances-2024",
-    "title": "Séminaire Méthodo",
-    "section": "Séances 2024",
-    "text": "Séances 2024\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nSéance (2) gestion de Données dans les Sciences Sociales et Humaines\n\n\n\n\n\n\n\n\n\n\n\n\n31 janv. 2024\n\n\n\n\n\n\n  \n\n\n\n\nSéance (1) : S’organiser en recherche\n\n\n\n\n\n\n\n\n\n\n\n\n9 janv. 2024\n\n\nMharion Cazaux, Amandine Duprat, Ugo Ryckman\n\n\n\n\n\n\nAucun article correspondant\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "Seances2024/Seance2.html",
-    "href": "Seances2024/Seance2.html",
-    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
-    "section": "",
-    "text": "La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics :\n\nLes «données de la recherche » sont définies comme des enregistrements factuels (chiffres, textes, images, sons) utilisés comme source principales pour la recherche scientifique et généralement reconnus par la communauté scientifique comme nécessaires pour valider les résultats de la recherche.\n\n\n\n\nIntroduction aux données de la recherche [canal-u] 2h21\n\nCette formation d’introduction aux données de la recherche, animée par Raphaëlle Bats, a eu lieu le 22 septembre 2022 à Pau. Elle a été organisée par l’Urfist de Bordeaux et l’Université de Pau et Pays de l’Adour (UPPA).\n\n\n\n\n\n\n\nVideo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport pdf\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindable / Accessible / Identifiable / Reusable\nFacile à trouver / Accessible / Identifiable / Réutilisable\n\n\n\n\n\n\n\nSite de référence\n\n\n\nGO FAIR : FAIR Principles\n\n\n\n\n\n\nDoit être constitué pour chaque projet de recherche\nDoit être présenté lorsque le projet de recherche est adopté, 6 mois après son lancement, puis en vue de sa publication / ouverture au public\nVise à planifier la gestion de données pour chaque projet de recherche, et chaque produit issus des projets de recherche\nSuivi de la transformation des données\n\nPlanifier, suivre et présenter la gestion de données permet aux projets de recherche d’évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique\n\n\n\n\n\nIntrinsèquement lié à la gestion des données\n\nVise à protéger les informations d’institutions et les informations individuelles de personnes impliquées dans un projet de recherche\nDonne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)"
-  },
-  {
-    "objectID": "Seances2024/Seance2.html#principes-de-la-gestion-de-données-julien-rabaud",
-    "href": "Seances2024/Seance2.html#principes-de-la-gestion-de-données-julien-rabaud",
-    "title": "Séance (2) gestion de Données dans les Sciences Sociales et Humaines",
-    "section": "",
-    "text": "La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics :\n\nLes «données de la recherche » sont définies comme des enregistrements factuels (chiffres, textes, images, sons) utilisés comme source principales pour la recherche scientifique et généralement reconnus par la communauté scientifique comme nécessaires pour valider les résultats de la recherche.\n\n\n\n\nIntroduction aux données de la recherche [canal-u] 2h21\n\nCette formation d’introduction aux données de la recherche, animée par Raphaëlle Bats, a eu lieu le 22 septembre 2022 à Pau. Elle a été organisée par l’Urfist de Bordeaux et l’Université de Pau et Pays de l’Adour (UPPA).\n\n\n\n\n\n\n\nVideo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport pdf\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindable / Accessible / Identifiable / Reusable\nFacile à trouver / Accessible / Identifiable / Réutilisable\n\n\n\n\n\n\n\nSite de référence\n\n\n\nGO FAIR : FAIR Principles\n\n\n\n\n\n\nDoit être constitué pour chaque projet de recherche\nDoit être présenté lorsque le projet de recherche est adopté, 6 mois après son lancement, puis en vue de sa publication / ouverture au public\nVise à planifier la gestion de données pour chaque projet de recherche, et chaque produit issus des projets de recherche\nSuivi de la transformation des données\n\nPlanifier, suivre et présenter la gestion de données permet aux projets de recherche d’évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique\n\n\n\n\n\nIntrinsèquement lié à la gestion des données\n\nVise à protéger les informations d’institutions et les informations individuelles de personnes impliquées dans un projet de recherche\nDonne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)"
   }
 ]

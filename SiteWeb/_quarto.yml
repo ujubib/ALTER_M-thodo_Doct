@@ -39,8 +39,6 @@ format:
     toc-expand: true
     filters:
     - lightbox
-    - authors-block
-    - embedpdf
     lightbox:
       match: auto
       effect: fade

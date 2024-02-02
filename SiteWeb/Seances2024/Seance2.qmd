@@ -36,7 +36,8 @@ La définition la plus courament utilisée est celle proposée par l’OCDE en 2
 ::: {.callout-tip collapse="true"}
 ## Support pdf
 
-{{< /pdf/Introduction-Données-2022.pdf >}}
+<object data="pdf/Introduction-Données-2022.pdf" type="application/pdf" width="100%"> 
+</object>
 :::
 
 
@@ -62,9 +63,91 @@ GO FAIR : [FAIR Principles](https://www.go-fair.org/fair-principles/)
   
   > Planifier, suivre et présenter la gestion de données permet aux projets de recherche d'évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique
 
+::: callout-tip
+## Site de référence
+
+[DMP OPIDoR](https://opidor.fr/planifier/) est un outil d’aide à la création en ligne de plans de gestion de données (Data Management Plan ou DMP) mis à disposition de l’Enseignement Supérieur et de la Recherche. Il est hébergé et géré par l’Inist-CNRS. Basé sur le code open source *DMPRoadmap*, il a été adapté aux besoins de la communauté scientifique française.
+:::
+
 ### RGPD, règlement général sur la protection des données
 
 Intrinsèquement lié à la gestion des données
 
 - Vise à protéger les informations d'institutions et les informations individuelles de personnes impliquées dans un projet de recherche
 - Donne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)
+
+#### Constitution d'un document présentant les droits des intervenants `obligatoire`
+
+- Pour protéger les intervenants et les membres impliqués dans le projet de recherche
+- Pour pouvoir exploiter les données rassemblées
+
+::: callout-tip
+## Guide RGPD de l'**InSHS** (CNRS)
+
+*Les sciences humaines et sociales et la protection des données à caractère personnel dans le contexte de la science ouverte : Guide pour le Recherche* [pdf](https://www.inshs.cnrs.fr/sites/institut_inshs/files/pdf/guide-rgpd_2.pdf)
+:::
+
+## 2 - Outils; *Julien Rabaud*
+
+### Nuage (UPPA)
+
+- Ouvert à tous (masterants et doctorants) : <https://nuage.univ-pau.fr>
+- Mise à jour automatique entre dossier local et en ligne grâce au [client NextCloud](https://nextcloud.com/fr/install/) à installer sur son ordinateur personnel > évite un nombre conséquent d'allers-retours inutiles.
+
+### Huma-num / ShareDocs
+
+- Plus sécurisé que certains *drive* en ligne
+- Possibilité d'utiliser des outils tels que *whisper* (logiciel de transcription)
+- Possibilité de partager des documents avec d'autres membres de l'UPPA
+
+### Huma-num / Nakala
+
+- Entrepôt de données
+- À utiliser en vue d'une publication
+
+## 3 - Amandine Duprat
+
+### Plan de gestion de données
+
+- Issu du plan de projet de recherche, fourni
+
+### Intérêt gestion de données
+
+- Uniformisation des données rassemblées
+- Étude qualitative des maisons d'écrivains
+
+## 4 - Ugo Ryckman
+
+Sujet actuel nécessitait de réaliser des entretiens. Avant la thèse, et au début, pas de connaissances sur comment réaliser des entretiens et comment traiter les entretiens.
+
+### Modèles étude d'entretiens
+
+- **1^er^ modèle** : *The First Wave*; collecte de témoignages sur le sujet de recherche. Fournit extrait d'entretien mais traçabilité impossible.
+- **2^e^ modèle** : *Oral History of the GAA*; collecte de témoignage sur l'histoire d'un sport. Plus factuel, fournit entretien entier + sommaire et transcription partielle. Modèle pour présenter les résultats de la recherche et pour la traçabilité.
+
+::: callout-important
+## 
+
+Développement plus profond sur la manière de faire les entretiens plus tard
+dans le semestre : le 04 mars (prochaine séance du séminaire)
+:::
+
+### Formulaire à remplir pour le RGPD
+
+Réalisation du document:
+
+- Basé sur un document publié par la *Oral History Society*, datant d'une formation en master
+- Correction et constitution de la version présentée lors des entretiens avec **Melaine Bernadaus**, juriste déléguée à la protection des données pour l'université. (<dpo@univ-pau.fr>)
+
+### Production de documents annexes II.1 exemple
+
+#### Entretiens:
+
+- Extraction d'informations importantes des entretiens
+  - Mise en place d'une annexe listant et définissant les événements, lieux, personnalités et institutions mentionnées
+
+## 5 - Contacts
+
+- <julien.rabaud@univ-pau.fr>
+- <dpo@univ-pau.fr>
+- [SOS Outils de la recherche](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.
