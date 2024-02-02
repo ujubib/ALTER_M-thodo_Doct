@@ -36,8 +36,8 @@ La définition la plus courament utilisée est celle proposée par l’OCDE en 2
 ::: {.callout-tip collapse="true"}
 ## Support pdf
 
-<object data="pdf/Introduction-Données-2022.pdf" type="application/pdf" width="100%"> 
-</object>
+<embed src="/img/Introduction-Données-2022.pdf" type="application/pdf" width="100%"> 
+</embed>
 :::
 
 
