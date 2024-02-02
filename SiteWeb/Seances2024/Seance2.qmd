@@ -1,0 +1,70 @@
+---
+title: "Séance (2) gestion de Données dans les Sciences Sociales et Humaines"
+date: 2024-01-31
+authors:
+  - name: Amandine Duprat
+    email: aduprat004@univ-pau.fr
+  - name: Ugo Ryckman
+    email: <ugo.ryckman@gmail.com>
+  - name: Julien Rabaud
+    email: <julien.rabaud@univ-pau.fr>
+lang: fr
+image: /img/FAIR_data_principles.jpg
+---
+
+
+## 1 - Principes de la gestion de données; *Julien Rabaud*
+
+### « Données de la recherche » / « Donnée scientifique »
+
+La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les [*Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics*](http://www.oecd.org/fr/sti/sci-tech/38500823.pdf) :
+ 
+> Les «données de la recherche » sont définies comme des **enregistrements factuels** (chiffres, textes, images, sons) **utilisés comme source principales pour la recherche scientifique** et généralement reconnus par la communauté scientifique comme nécessaires **pour valider les résultats de la recherche**.
+
+### Cours URFIST/UPPA sept. 2022
+
+*Introduction aux données de la recherche* \[[canal-u](https://www.canal-u.tv/chaines/callisto/introduction-aux-donnees-de-la-recherche)\] `2h21`
+
+> Cette formation d'introduction aux données de la recherche, animée par Raphaëlle Bats, a eu lieu le 22 septembre 2022 à Pau. Elle a été organisée par l'*Urfist de Bordeaux* et l'*Université de Pau et Pays de l'Adour* (UPPA).
+
+::: {.callout-tip collapse="true"}
+## Video
+
+<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/callisto/embed/135039?t=0" allowfullscreen></iframe>
+:::
+
+::: {.callout-tip collapse="true"}
+## Support pdf
+
+{{< /pdf/Introduction-Données-2022.pdf >}}
+:::
+
+
+  
+
+### F.A.I.R.
+
+- **Findable** / **Accessible** / **Identifiable** / **Reusable**
+- *Facile à trouver* / *Accessible* / *Identifiable* / *Réutilisable*
+
+::: callout-tip
+## Site de référence
+
+GO FAIR : [FAIR Principles](https://www.go-fair.org/fair-principles/)
+:::
+
+### Plan de Gestion de Données
+
+- Doit être constitué pour chaque projet de recherche
+- Doit être présenté lorsque le projet de recherche est adopté, 6 mois après son lancement, puis en vue de sa publication / ouverture au public
+- Vise à planifier la gestion de données pour chaque projet de recherche, et chaque produit issus des projets de recherche
+- Suivi de la transformation des données
+  
+  > Planifier, suivre et présenter la gestion de données permet aux projets de recherche d'évaluer leurs ambitions, capacités, mais aussi et surtout assurer leur position légale et éthique
+
+### RGPD, règlement général sur la protection des données
+
+Intrinsèquement lié à la gestion des données
+
+- Vise à protéger les informations d'institutions et les informations individuelles de personnes impliquées dans un projet de recherche
+- Donne la possibilité aux institutions/individus de se retirer du projet, de modifier le contenu de leur participation (pour question de litige, problème juridique, ou autre)

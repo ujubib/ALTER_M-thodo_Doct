@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: "SiteWeb"
+  title: "Séminaire Méthodo"
   reader-mode: true
   page-navigation: true
   navbar:
-    logo: UPPA_logo.png
+    logo: img/alter-logo-web-complet_150x211.jpg
     search: true
     pinned: false
     left:
@@ -38,7 +38,9 @@ format:
     toc-depth: 5
     toc-expand: true
     filters:
-    - lightbox 
+    - lightbox
+    - authors-block
+    - embedpdf
     lightbox:
       match: auto
       effect: fade

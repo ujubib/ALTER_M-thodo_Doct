@@ -1,7 +1,27 @@
 ---
-title: "SiteWeb"
+title: "Séminaire Méthodo"
+author: 
+  - name: Mharion Cazaux
+    email: mhkzo@outlook.fr
+  - name: Amandine Duprat
+    email: aduprat004@univ-pau.fr
+  - name: Ugo Ryckman
+    email: ugo.ryckman@gmail.com
+lang: fr
+listing:
+  id: séances2024
+  contents: "Seances2024/*"
+  sort: "date desc"
+  type: default
 ---
 
-This is a Quarto website.
+![](img/intitul%C3%A9S%C3%A9minaire.jpg)
+
+## Séances 2024
+
+:::: {#séances2024}
+::::
+
+***
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
