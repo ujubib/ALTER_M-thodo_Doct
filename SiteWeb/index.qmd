@@ -12,7 +12,7 @@ listing:
   id: séances2024
   contents: "Seances2024/*"
   sort: "date desc"
-  type: default
+  type: table
 ---
 
 ![](img/intitul%C3%A9S%C3%A9minaire.jpg)

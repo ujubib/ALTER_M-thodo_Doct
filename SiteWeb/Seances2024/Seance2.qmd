@@ -1,7 +1,7 @@
 ---
 title: "Séance (2) gestion de Données dans les Sciences Sociales et Humaines"
 date: 2024-01-31
-authors:
+author:
   - name: Amandine Duprat
     email: aduprat004@univ-pau.fr
   - name: Ugo Ryckman
@@ -125,11 +125,10 @@ Sujet actuel nécessitait de réaliser des entretiens. Avant la thèse, et au d�
 - **1^er^ modèle** : *The First Wave*; collecte de témoignages sur le sujet de recherche. Fournit extrait d'entretien mais traçabilité impossible.
 - **2^e^ modèle** : *Oral History of the GAA*; collecte de témoignage sur l'histoire d'un sport. Plus factuel, fournit entretien entier + sommaire et transcription partielle. Modèle pour présenter les résultats de la recherche et pour la traçabilité.
 
-::: callout-important
-## 
+::: {.callout-important appearance="minimal"}
 
 Développement plus profond sur la manière de faire les entretiens plus tard
-dans le semestre : le 04 mars (prochaine séance du séminaire)
+dans le semestre : le **04 mars** (prochaine séance du séminaire)
 :::
 
 ### Formulaire à remplir pour le RGPD
@@ -150,4 +149,4 @@ Réalisation du document:
 
 - <julien.rabaud@univ-pau.fr>
 - <dpo@univ-pau.fr>
-- [SOS Outils de la recherche](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.
+- [SOS méthodes et techniques des SHS](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.

@@ -139,4 +139,4 @@ Logiciel de catalogage.
 -   Manipulation générale de Zotero peut être couverte avec le personnel du SCD avec prise de rendez-vous
     -   Julien Rabaud [julien.rabaud\@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr){.email}
     -   Christel Barbisan [christel.barbisan\@univ-pau.fr](mailto:christel.barbisan@univ-pau.fr){.email}
--   [SOS Outils de la recherche](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.
+-   [SOS méthodes et techniques des SHS](https://bibliotheques.univ-pau.fr/fr/actualites-des-bibliotheques/ateliers-sos-methodes-et-techniques-des-shs.html), prochain atelier le 19 février de 12h à 14h à la BU.

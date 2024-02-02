@@ -31,7 +31,7 @@ format:
       margin-width: 400px
       gutter-width: 1.5rem
     theme:
-      light: yeti
+      light: flatly
       dark: solar
     css: styles.css
     toc: true

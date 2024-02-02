@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -224,62 +224,71 @@ window.Quarto = {
 <p><img src="img/intituléSéminaire.jpg" class="img-fluid"></p>
 <section id="séances-2024" class="level2">
 <h2 class="anchored" data-anchor-id="séances-2024">Séances 2024</h2>
-<div id="listing-séances2024" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1706655600000" data-listing-file-modified-sort="1706889388818" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="775">
-<div class="thumbnail">
-<p><a href="./Seances2024/Seance2.html" class="no-external"></a></p><a href="./Seances2024/Seance2.html" class="no-external">
-<p><img src="./img/FAIR_data_principles.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Seances2024/Seance2.html" class="no-external"></a></p>
+<div id="listing-séances2024" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-séances2024-sort" class="form-select" aria-label="Trier par" onchange="window['quarto-listings']['listing-séances2024'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Trier par</option>
+       <option value="index" data-direction="asc">Ordre par défaut</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Le plus ancien
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Le plus récent
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Titre
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Auteur·rice
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Seances2024/Seance2.html" class="no-external">Séance (2) gestion de Données dans les Sciences Sociales et Humaines</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Seances2024/Seance2.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./Seances2024/Seance2.html" class="no-external">La définition la plus courament utilisée est celle proposée par l’OCDE en 2007 dans les <em>Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche…</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Seances2024/Seance2.html" class="no-external">
-<div class="listing-date">
-31 janv. 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1704754800000" data-listing-file-modified-sort="1706889134839" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="711">
-<div class="thumbnail">
-<p><a href="./Seances2024/Seance1.html" class="no-external"></a></p><a href="./Seances2024/Seance1.html" class="no-external">
-<p><img src="./img/séance01.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Seances2024/Seance1.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Seances2024/Seance1.html" class="no-external">Séance (1) : S’organiser en recherche</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Seances2024/Seance1.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./Seances2024/Seance1.html" class="no-external">Outils d’organisation modelable. Plusieurs template ou modèles présents dans l’application / site.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Seances2024/Seance1.html" class="no-external">
-<div class="listing-date">
-9 janv. 2024
-</div>
-<div class="listing-author">
-Mharion Cazaux, Amandine Duprat, Ugo Ryckman
-</div>
-</a>
-</div>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Titre</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Auteur·rice</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1706655600000" data-listing-file-modified-sort="1706891310925" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="776" data-listing-title-sort="Séance (2) gestion de Données dans les Sciences Sociales et Humaines" data-listing-filename-sort="Seance2.qmd">
+<td>
+<span class="listing-date">31 janv. 2024</span>
+</td>
+<td>
+<a href="./Seances2024/Seance2.html" class="title listing-title">Séance (2) gestion de Données dans les Sciences Sociales et Humaines</a>
+</td>
+<td>
+<span class="listing-author">Amandine Duprat, Ugo Ryckman, Julien Rabaud</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1704754800000" data-listing-file-modified-sort="1706891315449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="712" data-listing-title-sort="Séance (1) : S'organiser en recherche" data-listing-filename-sort="Seance1.qmd">
+<td>
+<span class="listing-date">9 janv. 2024</span>
+</td>
+<td>
+<a href="./Seances2024/Seance1.html" class="title listing-title">Séance (1) : S’organiser en recherche</a>
+</td>
+<td>
+<span class="listing-author">Mharion Cazaux, Amandine Duprat, Ugo Ryckman</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 Aucun article correspondant
 </div>

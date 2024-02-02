@@ -22,3 +22,13 @@
 .quarto-title-breadcrumbs {
     display:none !important;
 }
+
+.listing-actions-group {
+    display: none;
+}
+
+.quarto-listing-table th {
+    color: grey;
+    font-weight: normal;
+    font-style: italic;
+}
