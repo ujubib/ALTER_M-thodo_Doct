@@ -5,6 +5,7 @@ website:
   title: "Séminaire Méthodo"
   reader-mode: true
   page-navigation: true
+  bread-crumbs: false
   navbar:
     logo: img/alter-logo-web-complet_150x211.jpg
     search: true
@@ -15,7 +16,7 @@ website:
       - href: about.qmd
         text: "Info"
   sidebar: 
-    title: Contenu
+    title: "Contenu"
     style: "docked"
     search: true
     collapse-level: 2

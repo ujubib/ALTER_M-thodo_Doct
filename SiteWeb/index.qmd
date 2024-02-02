@@ -9,6 +9,7 @@ author:
   - name: Ugo Ryckman
     email: ugo.ryckman@gmail.com
 lang: fr
+sidebar: true
 listing:
   id: séances2024
   contents: "Seances2024/*"
