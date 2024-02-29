@@ -16,7 +16,6 @@ website:
       - href: about.qmd
         text: "Info"
   sidebar: 
-    title: "Contenu"
     style: "docked"
     search: true
     collapse-level: 2
@@ -41,6 +40,7 @@ format:
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
+    lightbox: true
 
 
 
